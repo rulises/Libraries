@@ -11,6 +11,8 @@ public class Problem1 {
 	 * ?- my_last(X,[a,b,c,d]).
 	 * Output
 	 * X = d
+	 * NOTE: This methods were build to show different mechanisms, so some of them
+	 * appear to be inefficient or redundant, but is for the sake of practice
 	 * @param args
 	 */
 	//ARRAYLIST BUILT-IN METHODS IMPLEMENTATION
@@ -117,6 +119,4 @@ public class Problem1 {
 		
 	}
 	
-	
-
 }
